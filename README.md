@@ -1,10 +1,8 @@
 # Game-of-Squares-
-Game of squares is a very fun and interactive game.
+The Game of Squares is a very funny and interactive game where, by hovering over the first square repeatedly, will get a random number from 0 to 100.
 <br>
-In this game when you hover on 1st square again and again you will get random no. from 0 to 100
+By hovering over the second square, will get red, green, or blue colors.
 <br>
-when you hover on 2nd square again and again you will get red green blue colors
+Hovering over the third square gives random colors. 
 <br>
-when you hover on 3rd square again and again you will get random colors
-<br>
-when you click on 4th square again and again you will get your 1st, 2nd and 3rd boxes taking different colors together
+Clicking on the fourth square will display the first, second, and third boxes in different colors together.
